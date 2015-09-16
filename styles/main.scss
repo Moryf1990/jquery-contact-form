@@ -1,0 +1,66 @@
+.body {
+	background: #1E252A;
+}
+
+.main {
+	height: 40em;
+	background: #fff;
+	margin-top: 5em;
+  	margin-bottom: 15em;
+  	margin-left: 10em;
+  	margin-right: 10em; 
+  	padding: 2em;
+}
+
+.contact {
+	font-size: 2em;
+	padding-top: 1.5em;
+	font-weight: bold;
+}
+
+.name {
+	margin-top: 1em;
+}
+
+.input {
+	height: 2em;
+	width: 100%;
+	border-left: 4px solid #1E252A;
+	}
+
+.input1 {
+	height: 15em;
+	width: 100%;
+	border-left: 4px solid #1E252A;
+}
+
+.button {
+	height: 6em;
+	width: 24em;
+	margin-top: 1em;
+	background: #1E252A;
+	color: #fff;
+	border: none;
+	transition: background-color 0.5s;
+}
+
+.button:hover {
+	background: #88C470;
+}
+
+.red {
+	color: red;
+}
+
+.success {
+	color: #1E252A;
+	background: #fff;
+	height: 6em;
+	margin-top: 5em;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 2em;
+	margin-left: 5em;
+	margin-right: 5em;
+	display: none;
+}
